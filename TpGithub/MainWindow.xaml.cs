@@ -29,6 +29,8 @@ namespace TpGithub
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             //commentaire n°1 Ouzna
+            MessageBox.Show("ok");
+            // Commentaire jb n°2
 
         }
     }
